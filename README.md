@@ -4,8 +4,8 @@
 
 ## Dependencies
 For this program to work you need to add these dependencies:
-Maven: org.mongodb:bson:4.9.1
-Maven: org.mongodb:mongodb-driver-sync:4.9.1
+  Maven: org.mongodb:bson:4.9.1
+    Maven: org.mongodb:mongodb-driver-sync:4.9.1
 
 ## Operations
 ### public void createPerson(Person person) {}
