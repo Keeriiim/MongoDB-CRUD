@@ -2,6 +2,12 @@
 
 ## The Program was designed to produce a CRUD operation with MongoDB as a local database.
 
+## Dependencies
+For this program to work you need to add these dependencies:
+Maven: org.mongodb:bson:4.9.1
+Maven: org.mongodb:mongodb-driver-sync:4.9.1
+
+## Operations
 ### public void createPerson(Person person) {}
 Takes in a person object that is either employee or costumer and adds it to the database
 
@@ -16,7 +22,6 @@ Takes in a person object and updates the document by name, age, address, type, c
 
 ### public void deletePerson(String id) {}
 Takes in an id and deletes the document with the same id
-
 
 ### public List<Person> listPersons() {}
 Updates the list of persons and returns it
