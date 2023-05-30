@@ -3,7 +3,7 @@
 ## The Program was designed to produce a CRUD operation with MongoDB as a local database.
 
 ## Dependencies
-For this program to work you need to add these dependencies:   Maven: org.mongodb:bson:4.9.1
+For this program to work you need to add these dependencies:    Maven: org.mongodb:bson:4.9.1
     Maven: org.mongodb:mongodb-driver-sync:4.9.1
 
 ## Operations
